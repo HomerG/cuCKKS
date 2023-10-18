@@ -1,2 +1,2 @@
 # cuCKKS
-A CUDA implementation for CKKS
+A CUDA implementation for CKKS - work under progress
